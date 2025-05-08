@@ -1,0 +1,9 @@
+{
+    "amount": "1000",                     
+    "salt": "1234567890abcdef1234567890abcdef", 
+    "pubKey": [ "0x...", "0x..." ],        
+    "kycRoot": "0x...",                   
+    "kycPathElements": [ "0x..."],      
+    "kycPathIndices": [0,1]             
+  }
+  

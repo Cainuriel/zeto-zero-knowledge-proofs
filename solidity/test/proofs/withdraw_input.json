@@ -1,0 +1,8 @@
+{
+  "nullifier": "0x...",       
+  "amount": "1000",
+  "recipientPubKey": [ "0x...", "0x..." ],
+  "kycRoot": "0x...",                  
+  "utxoPathElements": [ "0x..."],    
+  "utxoPathIndices": [0,1]
+}
